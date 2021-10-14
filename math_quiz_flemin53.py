@@ -4,7 +4,8 @@ Assignment: m.n - Math Quiz
 Date: 10/14/2021
 
 Description:
-
+    This program creates a function that accepts n as a parameter and returns a random number with n digits.
+    Then, it asks the user to add 2 random numbers, 2 and 3 digits respetively.
 
 Contributors:
     Name, login@purdue.edu [repeat for each]
